@@ -78,3 +78,6 @@ The goal was not only to display the data, but to guide the audience toward the 
 ## Project Objective
 
 To demonstrate how a structured dataset can be transformed into an interactive, insight-led dashboard that helps communicate food adulteration patterns and identify potential priorities for food safety monitoring.
+
+## Dashboard Preview
+![Food Adulteration Analysis](./dashboard-preview.png)
