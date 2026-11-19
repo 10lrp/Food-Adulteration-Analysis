@@ -1,0 +1,12 @@
+## Dataset
+
+The project uses a food adulteration dataset
+consisting of 1,000 cases from January to June 2024.
+
+The dataset was already cleaned before analysis.
+Therefore, data cleaning was not included in this project scope.
+
+### Dataset File
+
+- https://www.kaggle.com/datasets/fahmidachowdhury/food-adulteration-dataset
+
